@@ -6,7 +6,7 @@ logging: используется для регистрации событий �
 
 Константы:
 
-TOKEN_API = '7355985669:AAGZFCk8Rp4GmqZVH3sUJ1OZ7CTQJxKi5jo' КЛЮЧ_ПОГОДОВОГО_API = '1f86be97bad23fc8703e21181e0d64af'
+TOKEN_API = '7741709346:AAHkFecrqeooCrBwlhEyxUJufI7d9kH3KHM' КЛЮЧ_ПОГОДОВОГО_API = '1f86be97bad23fc8703e21181e0d64af'
 
 API_TOKEN: токен для аутентификации бота в Telegram. WEATHER_API_KEY: ключ API для получения данных о погоде от OpenWeatherMap.
 
